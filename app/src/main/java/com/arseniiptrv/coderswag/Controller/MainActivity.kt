@@ -1,7 +1,8 @@
-package com.arseniiptrv.coderswag
+package com.arseniiptrv.coderswag.Controller
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
+import com.arseniiptrv.coderswag.R
 
 class MainActivity : AppCompatActivity() {
 
